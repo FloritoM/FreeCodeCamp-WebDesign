@@ -1,1 +1,2 @@
-# FreeCodeCamp-WebDesign-
+- Proyectos que hice para obtener la certificación de Responsive Web Design de FreeCodeCamp
+- Algunos están 'arreglados'
